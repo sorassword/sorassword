@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Amin Sharifi-Tabar – Data Science and AI" width="100%">
+
 ### Hi, I'm Amin 👋
 
 I build **AI products that turn messy data into knowledge people can actually use** – from data pipelines and ML models to the dashboards and interfaces on top.
