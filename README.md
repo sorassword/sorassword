@@ -39,4 +39,4 @@ I build **AI products that turn messy data into knowledge people can actually us
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/arian-sharifi-tabar-a71682393/) · [Düsseldorfer Hochschul Consulting](https://d-h-consulting.de/) · arian.sharifi-tabar@gmx.de
+[LinkedIn](https://www.linkedin.com/in/arian-sharifi-tabar-a71682393/) · [Düsseldorfer Hochschul Consulting](https://d-h-consulting.de/)
